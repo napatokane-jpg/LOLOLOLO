@@ -1,0 +1,11 @@
+{
+    "token" : "MTQ5OTkwMjY2NjM1OTQ0MzU0Nw.GUltUJ.YqZIB-76IHFWBe3Luv28ykGhpwYuIlfjum2I3M",
+    "webhook" : "https://ptb.discord.com/api/webhooks/1500154995587416205/KHKnqDWc8hcVkB-ubzkugA0FVu4ABseUq2X4KM3nmNsFNhsMHKh2_4USnLzMJD4Bpclq",
+    "imgurl" : "https://cdn.discordapp.com/attachments/889976848581287946/1193140899987865600/Herrscher.of.the.Void.full.2866346.gif?ex=65aba20e&is=65992d0e&hm=9afd68f45f0972ffadbaf18375adb52cf6e80cf59d83bbf6c0ecf1ca6e51a1e9&",
+    "cooldown" : "10",
+    "Phone":"yournumer",
+    "blacklist" : [
+        "191",
+        "1169"
+    ]
+}
